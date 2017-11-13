@@ -7,8 +7,9 @@
 
 .purple {
     
-    top: auto;
-    left: auto;
+    position: relative;
+    top: 70px;
+    left: 70px;
     width: 150px;
     height: 150px;
     background: purple;
@@ -17,8 +18,38 @@
 
 .yellow {
     
-    width: 50px;
-    height: 50px;
+    width: 70px;
+    height: 70px;
     background: yellow;
 
 }
+
+
+.blue {
+   
+    position: relative;
+    top: 320pxs; 
+    width: 300px;
+    height: 300px;
+    background: blue;
+}
+
+.black {
+    
+    width: 70px;
+    height: 70px;
+    background: black;
+
+}
+
+.green {
+    
+    position: relative;
+    top: 70px;
+    left: 70px;
+    width: 150px;
+    height: 150px;
+    background: green;
+
+}
+
